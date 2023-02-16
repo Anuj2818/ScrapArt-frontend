@@ -1,12 +1,12 @@
 # React-Native Ecommerce App :bomb:
 
-# Hi, We are Team Charlie! 👋
+# Hi, We are Team DIT! 👋
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/UsamaSarwar/reactnative-ecommerce-charlie)
 
 ## `Development Stack` ➡️ `MERN Stack`
 
-### `Backend on NodeJs` ➡️ [https://github.com/abidrazaa/backend-node](https://github.com/abidrazaa/backend-node)
+### `Backend on NodeJs` ➡️ [https://github.com/Anuj2818/ScrapArt-backend]
 
 Open-Source React Native Ecommerce Cross Platform Mobile App :iphone:
 
