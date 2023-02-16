@@ -85,6 +85,5 @@ The presentation of the Mockups can be seen from [here](https://www.youtube.com/
 
 ## Thanks to all the contributors ❤️
 
-<a href = "https://github.com/UsamaSarwar/reactnative-ecommerce-charlie">
-  <img src = "https://contrib.rocks/image?repo=UsamaSarwar/reactnative-ecommerce-charlie"/>
+<a href = "https://github.com/mousamS26">
 </a>
